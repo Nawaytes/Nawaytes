@@ -19,14 +19,14 @@ Here are some things to know about me:
   - **Databases:** MySQL • Postgres • MongoDB • Redis
   - **System Architecture:** Monolithic • Microservices
   - **Protocol:** REST
-
+<!--
 - 🖥 **Frontend: (_I do frontend for fun_)**
 
   - **Language:** TypeScript
   - **Framework/Library:** ReactJS
   - **UI Toolkit:** MUI • Ant
   - **Utils:** Tailwind
-
+-->
 - 🎡 **Ecosystem:**
   - **Containerization:** Docker • 
   - **Version Control:** Git • Github • Gitlab
