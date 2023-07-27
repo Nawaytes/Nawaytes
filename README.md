@@ -6,10 +6,33 @@ Here are some things to know about me:
 
 ## About Me
 
-- 🎓 Education: Bachelor's degree in Electrical Engineering from Universitas Gadjah Mada and Universitas Ahmad Dahlan.
+- 🎓 Education: Bachelor's degree in Electrical Engineering.
 - 💼 Profession: I am a professional Back-End Developer with a focus on creating robust and efficient systems.
-- 🔧 Skills: I work with various programming languages, including TypeScript, Python, and GoLang. I'm also familiar with essential tools like Git, Docker, Postgres, and Redis.
 - 💡 Interests: I'm interested in working on projects related to Financial Technology, Information Technology, Artificial Intelligence, Marketplace Businesses, and more.
+
+### What are my skill sets?
+
+- 🗄️ **Backend:**
+
+  - **Language/Platform:** TypeScript • Python • Golang
+  - **Framework:** KoaJS • NestJS • AdonisJS • Express • Echo • Gin • FastAPI
+  - **Databases:** MySQL • Postgres • MongoDB • Redis
+  - **System Architecture:** Monolithic • Microservices
+  - **Protocol:** REST
+
+- 🖥 **Frontend: (_I do frontend for fun_)**
+
+  - **Language:** TypeScript
+  - **Framework/Library:** ReactJS
+  - **UI Toolkit:** MUI • Ant
+  - **Utils:** Tailwind
+
+- 🎡 **Ecosystem:**
+  - **Containerization:** Docker • 
+  - **Version Control:** Git • Github • Gitlab
+  - **CI/CD:** Azure DevOps • Github Actions
+  - **Project Management:** Jira • Trello
+
 
 ## Contact
 
