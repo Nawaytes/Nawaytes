@@ -1,4 +1,4 @@
-# Galih Setywan | Back-End Developer
+# Galih Setyawan | Back-End Developer
 
 ### Hi there! 👋
 
